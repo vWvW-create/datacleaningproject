@@ -1,5 +1,3 @@
-# datacleaningproject
-data clean project 
 Project objective
 Dataset
 SQL cleaning steps
